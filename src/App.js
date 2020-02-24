@@ -1,11 +1,11 @@
 import React from "react";
-import Square from './components/Square';
+import Game from './components/Game';
 
 class App extends React.Component {
   render() {
     return (
       <div className="App">
-        <Square />
+        <Game/>
       </div>
     );
   }

@@ -18,4 +18,12 @@ outline: none;
 }
 
 /* Board */
-
+.board-row:after {
+  clear: both;
+  content: "";
+  display: table;
+}
+/*Game*/
+.game{
+position: absolute;
+}

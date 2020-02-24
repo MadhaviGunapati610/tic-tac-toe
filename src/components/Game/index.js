@@ -8,7 +8,7 @@ this.state={
 xIsNext : true,
 stepNumber: 0,
 history: [
-{square: Array(9).fill(null)}
+{squares: Array(9).fill(null)}
 ]
 }
   }
